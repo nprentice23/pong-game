@@ -1,1 +1,1 @@
-# pong-gmae
+# pong-game
